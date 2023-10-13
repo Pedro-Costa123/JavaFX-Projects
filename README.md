@@ -8,6 +8,11 @@ This repository contains a collection of JavaFX projects I have worked on. Each 
    - Description: First time programming with JavaFX.
    - Directory: [Proj1](./Proj1)
    - Course: [Coursera](https://www.coursera.org/projects/gui-programming-javafx)
+  
+2. **News App**
+   - Description: Desktop app for news.
+   - Directory: [Proj2](./Proj2)
+   - API: [News API](https://newsapi.org/)
 
 ### Prerequisites
 
